@@ -6,7 +6,7 @@ The primary objective of this project is to analyze customer data from a retail 
 ## Power BI Dashboard
 
 Click the image below to view the interactive Power BI dashboard.
-![image](https://app.powerbi.com/view?r=eyJrIjoiZWJlMTE1NjEtYTQyZC00MjNmLWIwZjktZjIzOTg1OGM5ZjNiIiwidCI6ImUxNGU3M2ViLTUyNTEtNDM4OC04ZDY3LThmOWYyZTJkNWE0NiIsImMiOjEwfQ%3D%3D)](https://app.powerbi.com/view?r=eyJrIjoiZWJlMTE1NjEtYTQyZC00MjNmLWIwZjktZjIzOTg1OGM5ZjNiIiwidCI6ImUxNGU3M2ViLTUyNTEtNDM4OC04ZDY3LThmOWYyZTJkNWE0NiIsImMiOjEwfQ%3D%3D)
+![image](https://github.com/user-attachments/assets/3d12736d-c614-42ae-aad9-d7ae4e882a4d)
 
 
 [![dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWJlMTE1NjEtYTQyZC00MjNmLWIwZjktZjIzOTg1OGM5ZjNiIiwidCI6ImUxNGU3M2ViLTUyNTEtNDM4OC04ZDY3LThmOWYyZTJkNWE0NiIsImMiOjEwfQ%3D%3D)](https://app.powerbi.com/view?r=eyJrIjoiZWJlMTE1NjEtYTQyZC00MjNmLWIwZjktZjIzOTg1OGM5ZjNiIiwidCI6ImUxNGU3M2ViLTUyNTEtNDM4OC04ZDY3LThmOWYyZTJkNWE0NiIsImMiOjEwfQ%3D%3D)
